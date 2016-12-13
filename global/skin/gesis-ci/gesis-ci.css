@@ -89,7 +89,7 @@ bdo[dir="rtl"] {
 }
 /*
 /* rtl-review */
-/* with specifics imports 
+/* with specifics imports
 add [dir="rtl"] SELECTOR ([dir="ltr"] is default)
 to elements with different left/right margin, padding, border, position, float, clear, text-align and, when needed, Background-position.
 In theory, you should also invert shadow... but i think we could postpone this to another release...
@@ -2933,7 +2933,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: #fff;
-  background-color: #6ea03c;
+  background-color: #ff6100;
   border-color: #618d35;
 }
 .btn-success:hover,
@@ -2965,11 +2965,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #6ea03c;
+  background-color: #ff6100;
   border-color: #618d35;
 }
 .btn-success .badge {
-  color: #6ea03c;
+  color: #ff6100;
   background-color: #fff;
 }
 .btn-info {
@@ -4554,7 +4554,7 @@ a.label:focus {
   background-color: #3a4c65;
 }
 .label-success {
-  background-color: #6ea03c;
+  background-color: #ff6100;
 }
 .label-success[href]:hover,
 .label-success[href]:focus {
@@ -4824,7 +4824,7 @@ a.thumbnail.active {
   box-shadow: none;
 }
 .progress-bar-success {
-  background-color: #6ea03c;
+  background-color: #ff6100;
 }
 .progress-striped .progress-bar-success {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
@@ -6263,7 +6263,7 @@ button.close {
 /*		Color scheme
 		Dark BLue: #0f2152;
 		Mid Blue: #4c6586;
-		Green: #6ea03c;
+		Green: #ff6100;
 		Light Brown: #dcb496;
 		Dark Brown: #523228;
 		Orange: #fa8228;
@@ -6579,7 +6579,7 @@ b {
 a {
   text-decoration: none;
   cursor: pointer;
-  /* BEGIN WebDAV: Enable links with AnchorClick behavior for Internet Explorer. 
+  /* BEGIN WebDAV: Enable links with AnchorClick behavior for Internet Explorer.
  * All skins which want to support mounting of Webfolders using Internet Explorer
  * must explicitly enable AnchorClick behavior.
  */
@@ -6973,7 +6973,7 @@ div.il_info {
 }
 /* ---------------- headlines ------------------ */
 a#il_mhead_t_focus {
-  color: #6ea03c;
+  color: #ff6100;
   vertical-align: middle;
   font-size: 26px;
   cursor: default;
@@ -8208,7 +8208,7 @@ div.il_editarea_active {
   border: 1px solid #909090;
 }
 div.il_editarea_selected {
-  border: 2px solid #6ea03c;
+  border: 2px solid #ff6100;
 }
 div.il_editarea_disabled_selected {
   border: 2px solid #fa8228;
@@ -8437,7 +8437,7 @@ div.ilEditDeleted {
   border-color: #fa8228;
 }
 div.ilEditNew {
-  border-color: #6ea03c;
+  border-color: #ff6100;
 }
 .ilCOPGCompareLegend {
   display: inline-block;
@@ -10747,8 +10747,8 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: white;
-  background-color: #6ea03c;
-  border-color: #6ea03c;
+  background-color: #ff6100;
+  border-color: #ff6100;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -10779,11 +10779,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #6ea03c;
-  border-color: #6ea03c;
+  background-color: #ff6100;
+  border-color: #ff6100;
 }
 .btn-primary .badge {
-  color: #6ea03c;
+  color: #ff6100;
   background-color: white;
 }
 .btn-info {
@@ -11394,15 +11394,15 @@ table.mceToolbar td {
 /* basic responsiveness (beta)
 
    The following section targets smartphones.
-  
+
    iPads come with a device width of 768, the iPhone with 320, most smartphones seem to
    use a width under 640px, so 640 seems to be a good choice here.
    If you make any changes in this query, please add a reason to this comment and if possible an url that
    backs this decision.
-   
+
    List of common devices width values: http://cssmediaqueries.com/target/
    Google recommending 640px: https://developers.google.com/webmasters/smartphone-sites/details
-   
+
    */
 @media only screen and (max-width: 768px) {
   html {
