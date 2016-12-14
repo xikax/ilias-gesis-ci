@@ -8932,6 +8932,7 @@ input.ilOpenIDBox {
 }
 .ilMainMenu.ilTopFixed {
   top: 110px;
+  padding-left: 160px;
 }
 .dropdown-menu {
   font-weight: normal;
