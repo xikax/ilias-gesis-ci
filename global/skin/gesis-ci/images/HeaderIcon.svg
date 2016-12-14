@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="160"
+   width="120"
    height="50"
-   viewBox="0 0 160 50.000001"
+   viewBox="0 0 120 50.000001"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -21,7 +21,6 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4527"
        osb:paint="gradient">
       <stop
@@ -41,23 +40,14 @@
          offset="0"
          id="stop4374" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4527"
-       id="linearGradient4537"
-       x1="14.832031"
-       y1="1030.6317"
-       x2="112.5874"
-       y2="1030.6317"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4783"
-       x="-0.0055500757"
+       x="-0.0055500758"
        width="1.0111002"
        y="-0.017265934"
-       height="1.0345319">
+       height="1.034532">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.22374985"
@@ -82,8 +72,8 @@
        id="filter5100"
        x="-0.034600485"
        width="1.069201"
-       y="-0.039953199"
-       height="1.0799064">
+       y="-0.039953198"
+       height="1.0799063">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.1440032"
@@ -94,7 +84,7 @@
        style="color-interpolation-filters:sRGB"
        id="filter5156"
        x="-0.019199997"
-       width="1.0384"
+       width="1.0384001"
        y="-0.032000009"
        height="1.064">
       <feGaussianBlur
@@ -102,6 +92,15 @@
          stdDeviation="0.079999902"
          id="feGaussianBlur5158" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4527"
+       id="linearGradient4234"
+       gradientUnits="userSpaceOnUse"
+       x1="14.832031"
+       y1="1030.6317"
+       x2="112.5874"
+       y2="1030.6317" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -110,9 +109,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="140.1513"
-     inkscape:cy="18.787194"
+     inkscape:zoom="4"
+     inkscape:cx="70.638528"
+     inkscape:cy="25.57169"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -141,17 +140,17 @@
      transform="translate(0,-1002.3622)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#336682;fill-opacity:1;stroke:url(#linearGradient4537);stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:0;stroke-dasharray:none;opacity:1;filter:url(#filter4783)"
-       x="13.125"
-       y="1037.8622"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#336682;fill-opacity:1;stroke:url(#linearGradient4234);stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4783)"
+       x="-1.375"
+       y="1034.8622"
        id="text3336"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3338"
-         x="13.125"
-         y="1037.8622"
-         style="fill:#336682;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;opacity:1;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:square;">ges<tspan
-   style="font-size:31.25px;fill:#336682;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:square;"
+         x="-1.375"
+         y="1034.8622"
+         style="opacity:1;fill:#336682;fill-opacity:1;stroke:url(#linearGradient4234);stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1">ges<tspan
+   style="font-size:31.25px;fill:#336682;fill-opacity:1;stroke:url(#linearGradient4234);stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
    id="tspan3482">I</tspan>s</tspan></text>
     <path
        sodipodi:type="star"
@@ -169,11 +168,11 @@
        inkscape:randomized="0"
        d="m 131.91734,1027.0039 -9.98852,0 4.99426,-8.6503 z"
        inkscape:transform-center-y="-1.0540418"
-       transform="matrix(1.1332088,0,0,0.73109584,-16.847265,275.87207)" />
+       transform="matrix(1.1332088,0,0,0.73109584,-31.347265,272.87207)" />
     <a
        id="a4793"
        style="filter:url(#filter5156)"
-       transform="translate(1,-1)">
+       transform="translate(-13.5,-4)">
       <rect
          y="1027.3622"
          x="121.00001"
@@ -189,6 +188,6 @@
        height="5"
        x="124.00001"
        y="1028.3622"
-       transform="matrix(0.96644226,0,0,1.4640518,5.2282754,-478.13882)" />
+       transform="matrix(0.96644226,0,0,1.4640518,-9.2717246,-481.13882)" />
   </g>
 </svg>

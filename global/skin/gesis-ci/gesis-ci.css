@@ -8923,16 +8923,19 @@ input.ilOpenIDBox {
   padding: 0;
   margin: 15px 15px 0;
 }
+/* HeaderIcon.svg */
 .ilMainHeader > header > .row > a.navbar-brand > img {
-  width: 160px;
+  width: 120px;
   height: 50px;
 }
 .ilMainMenu {
   background-color: white;
 }
+
+/* HeaderIcon.svg - Einrücken des Menüs */
 .ilMainMenu.ilTopFixed {
   top: 110px;
-  padding-left: 160px;
+  padding-left: 120px;
 }
 .dropdown-menu {
   font-weight: normal;
@@ -10532,8 +10535,9 @@ div.ilStartupSection form.form-horizontal {
   text-align: left;
   width: 40em;
 }
+/* HeaderIcon.svg */
 div#il_startup_logo img {
-  width: 50px;
+  width: 120px;
   height: 50px;
   margin: 15px;
 }
