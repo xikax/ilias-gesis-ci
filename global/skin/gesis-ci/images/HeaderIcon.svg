@@ -1,26 +1,194 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="44px" height="44px" viewBox="0 0 277.795 277.795" enable-background="new 0 0 277.795 277.795"
-	 xml:space="preserve">
-<radialGradient id="SVGID_1_" cx="0.6865" cy="1.4966" r="205.4639" gradientTransform="matrix(1 0 0 1 0 -3.051758e-04)" gradientUnits="userSpaceOnUse">
-	<stop  offset="0" style="stop-color:#466488"/>
-	<stop  offset="0.9904" style="stop-color:#003C65"/>
-</radialGradient>
-<polygon fill="url(#SVGID_1_)" points="0,0 277.796,0 277.796,277.795 0,277.795 0,0 "/>
-<g>
-	<polygon fill="#FFFFFF" points="38.764,234.134 51.467,234.134 51.467,176.364 38.764,176.364 38.764,234.134 	"/>
-	<polygon fill="#FFFFFF" points="62.63,234.134 103.49,234.134 103.49,223.453 75.333,223.453 75.333,176.364 62.63,176.364 
-		62.63,234.134 	"/>
-	<polygon fill="#FFFFFF" points="113.673,234.134 126.375,234.134 126.375,176.364 113.673,176.364 113.673,234.134 	"/>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M133.438,234.134h12.865l4.532-12.865h21.601l4.371,12.865h13.187
-		l-21.602-57.77h-13.026L133.438,234.134L133.438,234.134z M161.675,190.604h0.162l7.281,21.198h-14.967L161.675,190.604
-		L161.675,190.604z"/>
-	<path fill="#FFFFFF" d="M196.162,214.958c-0.162,14.239,11.812,20.551,24.599,20.551c15.696,0,24.029-7.929,24.029-18.528
-		c0-13.107-12.945-15.776-17.151-16.829c-14.484-3.722-17.235-4.288-17.235-8.738c0-4.854,4.694-6.554,8.739-6.554
-		c6.066,0,11.002,1.78,11.408,8.738h12.298c0-13.351-11.085-18.608-23.141-18.608c-10.437,0-21.603,5.663-21.603,17.477
-		c0,10.842,8.658,14.158,17.234,16.424c8.496,2.266,17.151,3.317,17.151,9.547c0,5.907-6.796,7.201-11.247,7.201
-		c-6.796,0-12.783-2.994-12.783-10.68H196.162L196.162,214.958z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="50"
+   viewBox="0 0 160 50.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="HeaderIcon.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4527"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4529" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4531" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4372"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#326682;stop-opacity:1;"
+         offset="0"
+         id="stop4374" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4527"
+       id="linearGradient4537"
+       x1="14.832031"
+       y1="1030.6317"
+       x2="112.5874"
+       y2="1030.6317"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4783"
+       x="-0.0055500757"
+       width="1.0111002"
+       y="-0.017265934"
+       height="1.0345319">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.22374985"
+         id="feGaussianBlur4785" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5080"
+       x="-0.087750122"
+       width="1.1755002"
+       y="-0.070199922"
+       height="1.1403998">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.14624984"
+         id="feGaussianBlur5082" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5100"
+       x="-0.034600485"
+       width="1.069201"
+       y="-0.039953199"
+       height="1.0799064">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.1440032"
+         id="feGaussianBlur5102" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5156"
+       x="-0.019199997"
+       width="1.0384"
+       y="-0.032000009"
+       height="1.064">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.079999902"
+         id="feGaussianBlur5158" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="140.1513"
+     inkscape:cy="18.787194"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1002.3622)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#336682;fill-opacity:1;stroke:url(#linearGradient4537);stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:0;stroke-dasharray:none;opacity:1;filter:url(#filter4783)"
+       x="13.125"
+       y="1037.8622"
+       id="text3336"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338"
+         x="13.125"
+         y="1037.8622"
+         style="fill:#336682;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;opacity:1;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:square;">ges<tspan
+   style="font-size:31.25px;fill:#336682;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;stroke-width:0;stroke-miterlimit:0;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:square;"
+   id="tspan3482">I</tspan>s</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#336682;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5100)"
+       id="path4787"
+       sodipodi:sides="3"
+       sodipodi:cx="126.92308"
+       sodipodi:cy="1024.1205"
+       sodipodi:r1="5.7668753"
+       sodipodi:r2="2.8834379"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 131.91734,1027.0039 -9.98852,0 4.99426,-8.6503 z"
+       inkscape:transform-center-y="-1.0540418"
+       transform="matrix(1.1332088,0,0,0.73109584,-16.847265,275.87207)" />
+    <a
+       id="a4793"
+       style="filter:url(#filter5156)"
+       transform="translate(1,-1)">
+      <rect
+         y="1027.3622"
+         x="121.00001"
+         height="5.9999909"
+         width="9.9999895"
+         id="rect4789"
+         style="opacity:1;fill:#336682;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+    </a>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5080)"
+       id="rect4791"
+       width="3.99999"
+       height="5"
+       x="124.00001"
+       y="1028.3622"
+       transform="matrix(0.96644226,0,0,1.4640518,5.2282754,-478.13882)" />
+  </g>
 </svg>
